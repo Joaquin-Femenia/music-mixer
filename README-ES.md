@@ -29,9 +29,9 @@ La primera versión la creé para un negocio fisico de mi padre, donde se usaba 
 git clone https://github.com/Joaquin-Femenia/music-mixer.git
 ```
 2. Entra a la carpeta del projecto:  
-    ```sh
-    cd music-mixer
-    ```
+```sh
+cd music-mixer
+```
 3. Instalar las dependencias:  
 ```sh
 pip install -r requirements.txt
