@@ -22,23 +22,24 @@ La primera versión la creé para un negocio fisico de mi padre, donde se usaba 
 
 
 ## Instalación y uso
+### **En Windows, usa cmd o PowerShell. En macOS/Linux, usa la terminal.**
+
 1. Clonar el repositorio:  
+```sh
+git clone https://github.com/Joaquin-Femenia/music-mixer.git
+```
+2. Entra a la carpeta del projecto:  
     ```sh
-    git clone https://github.com/Joaco-Femenia/music-mixer.git
+    cd music-mixer
     ```
-2. Instalar las dependencias:  
-    ```sh
-    pip install -r requirements.txt
-    ```
-3. Navegar hasta la carpeta del proyecto:  
-    ```sh
-    cd ruta/del/proyecto
-    ```
+3. Instalar las dependencias:  
+```sh
+pip install -r requirements.txt
+```
 4. Ejecutar el programa con Python:  
-    ```sh
-    python main.py
-    ```
-    **En Windows, usa cmd o PowerShell. En macOS/Linux, usa la terminal.**
+```sh
+python main.py
+```
 
 
 ## Contribuciones y contacto
